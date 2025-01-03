@@ -1,0 +1,14 @@
+huggingface_hub==0.25.2
+python-dotenv
+langchain
+langchain-groq
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+langchain-core
+gradio
+setuptools>=65.0.0
+ipynb
+pypdf
+bs4
